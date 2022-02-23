@@ -1,0 +1,26 @@
+#c1 {
+	width: 800px;
+	height: 600px;
+	border: 3px solid black;
+	margin: 40px;
+	margin-top: 0px;
+	/* background-image: url(setka.png); */
+}
+#in, #don {
+	margin: 40px;
+}
+.in {
+	display: table;
+	margin: 40px;	
+}
+.input{
+	width: 60px;
+	height: 20px;	
+}
+.in-cell {
+	display: table-cell;
+	padding-right: 30px;
+}
+.space{
+	width: 50px;
+}
